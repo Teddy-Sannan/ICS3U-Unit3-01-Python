@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Mr. Coxall
+# Created by: Teddy Sannan
 # Created on: September 2019
 # This program adds two numbers together
 
